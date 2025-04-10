@@ -31,12 +31,3 @@ python caiporabot.py
 ## How it works
 
 The bot automatically downloads the Mistral 7B model on first run and provides a simple chat interface for interacting with the AI. All responses are in Brazilian Portuguese.
-
-## License
-
-MIT
-
-## Note
-
-This is a Portuguese language bot designed to provide survival information for the Amazon rainforest.
- 
